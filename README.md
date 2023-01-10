@@ -1,6 +1,6 @@
 # README
 LAB 0
-- Hi, I’m Justin Campos
+- Hi, I’m Justin Campos 🤪
 - I’m interested in software, hardware engineering, and cyber security
 - I’m currently learning object oriented programming, signals and systems, and micro electronics
 - I'm originally from Maui
